@@ -160,7 +160,7 @@ The objective is to identify significant spectral changes between two observatio
 ---
 
 
-# 📊 Outputs
+# Outputs
 
 Depending on the workflow, the project can generate:
 
