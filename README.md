@@ -1,10 +1,10 @@
-# 🌱 AgriSense – Automated Geospatial Intelligence for Precision Agriculture
+# AgriSense – Automated Geospatial Intelligence for Precision Agriculture
 
 A geospatial data science project that processes Sentinel-2 satellite imagery to monitor crop conditions using spectral analysis, image preprocessing, unsupervised learning, and change detection. The project explores how remote sensing and machine learning can be combined to support precision agriculture.
 
 ---
 
-# 📌 Overview
+# Overview
 
 Precision agriculture increasingly relies on satellite imagery to monitor crop health over large areas. However, raw satellite data is often affected by atmospheric conditions, cloud cover, and the lack of labeled datasets for supervised learning.
 
@@ -14,7 +14,7 @@ The project focuses on building a reproducible pipeline rather than a single mac
 
 ---
 
-# ✨ Features
+# Features
 
 * Satellite image preprocessing
 * Atmospheric correction workflow
@@ -26,8 +26,6 @@ The project focuses on building a reproducible pipeline rather than a single mac
 * GIS-ready outputs
 
 ---
-
-# 🛠 Technology Stack
 
 ### Programming
 
@@ -56,7 +54,7 @@ The project focuses on building a reproducible pipeline rather than a single mac
 
 ---
 
-# 🛰 Processing Pipeline
+#  Processing Pipeline
 
 ```text
 Sentinel-2 Imagery
@@ -85,7 +83,7 @@ Maps & GIS Outputs
 
 ---
 
-# 🔬 Project Components
+#  Project Components
 
 ## 1. Atmospheric Preprocessing
 
@@ -176,7 +174,7 @@ Depending on the workflow, the project can generate:
 ---
 
 
-# 📚 What I Learned
+# What I Learned
 
 This project strengthened my understanding of:
 
@@ -190,7 +188,7 @@ This project strengthened my understanding of:
 * End-to-end data science workflows
 
 
-# 🔮 Future Improvements
+# Future Improvements
 
 Possible extensions include:
 
